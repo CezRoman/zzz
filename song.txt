@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 na gorze roze 
 na dole fiolki
 
@@ -6,10 +5,3 @@ blabla
 mumlamumla
 
 sranie w banie
-=======
-na gorze roze 
-na dole fiolki
-
-blabla 
-mumlamumla
->>>>>>> da70f1e9c54445df71f4f4c05996d074eee727a4
